@@ -1,3 +1,5 @@
+![Tiwind Web Server](https://github.com/Bluecodelf/tiws/raw/master/md/logo.png)
+
 TIWS 0.1R.1
 ===========
 
@@ -50,8 +52,8 @@ Roadmap to 0.1R.2
 
 This project is still in its early stages.
 
-- Refine AST generation.
-- Refine weblock-server communication.
-- Refine how weblocks can communicate between themselves using the event queue.
-- Refine event queue filters.
-- Make a cool-ass logo.
+- [ ] Refine AST generation.
+- [ ] Refine weblock-server communication.
+- [ ] Refine how weblocks can communicate between themselves using the event queue.
+- [ ] Refine event queue filters.
+- [x] Make a cool-ass logo.
